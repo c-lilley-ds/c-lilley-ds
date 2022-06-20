@@ -1,9 +1,9 @@
 - 👋 Hi, I’m 
 - <img src="https://github.com/c-lilley-ds/c-lilley-ds/blob/main/header.png" alt="banner that says Chtistopher Lilley - Data Scientist">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Shiny and Git.
+
+- ## How to reach me 📫
+- I have a blog at Medium.
 
 <!---
 c-lilley-ds/c-lilley-ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
