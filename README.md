@@ -1,5 +1,5 @@
 - <img src="https://github.com/c-lilley-ds/c-lilley-ds/blob/main/header.png" alt="banner that says Chtistopher Lilley - Data Scientist">
-- 🌱 I’m currently learning Shiny and Git.
+- 🌱 I’m currently learning Python html and CSS.
 
 ## How to reach me 📫
 - I have a blog at Medium.
